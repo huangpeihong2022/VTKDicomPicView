@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>res/adjust.png</file>
+        <file>res/auto.png</file>
+        <file>res/downarrow.png</file>
+        <file>res/file.png</file>
+        <file>res/loupe.png</file>
+        <file>res/picture.png</file>
+        <file>res/roam.png</file>
+        <file>res/saveas.png</file>
+        <file>res/tile.png</file>
+        <file>res/zoom.png</file>
+        <file>res/3d.png</file>
+        <file>res/CT.png</file>
+        <file>RChartView.qml</file>
+        <file>GChartView.qml</file>
+        <file>AChartView.qml</file>
+        <file>BChartView.qml</file>
+    </qresource>
+</RCC>
